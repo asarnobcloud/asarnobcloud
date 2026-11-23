@@ -31,7 +31,7 @@ Submitted to the International Journal of Productivity and Performance Managemen
 ## Technical Skills
 
 - Python
-- HTML, CSS, JavaScript
+- HTML
 - Machine Learning
 - Predictive Modelling
 - Data Analysis
