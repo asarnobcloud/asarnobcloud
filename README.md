@@ -1,16 +1,45 @@
-## Hi there 👋
+# Ananyo Satatyo Arnob
 
-<!--
-**asarnobcloud/asarnobcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Researcher | Industrial Engineering | Operations Research | Machine Learning**
 
-Here are some ideas to get you started:
+I am an undergraduate researcher interested in applying data-driven methods, machine learning, and mathematical optimization to real-world engineering and industrial problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Industrial and Production Engineering
+- Operations Research
+- Machine Learning
+- Supply Chain Management
+- Manufacturing Analytics
+- Mathematical Optimization
+- Composite Materials
+
+## Publications
+
+**Optimization of FMCG Supply Chain Networks Under Demand and Disruption Uncertainty: An Operations Research Approach**
+
+7th Asia Pacific Conference on Industrial Engineering and Operations Management (2026).
+
+DOI: https://doi.org/10.46254/AP07.20260291
+
+## Journal Manuscript
+
+**Forecastability of Hourly Overall Equipment Effectiveness: Evidence from Two Sewing Lines**
+
+Submitted to the International Journal of Productivity and Performance Management (IJPPM).
+
+## Technical Skills
+
+- Python
+- HTML, CSS, JavaScript
+- Machine Learning
+- Predictive Modelling
+- Data Analysis
+- Data Visualization
+- Mixed-Integer Linear Programming (MILP)
+- Explainable AI (SHAP)
+- Statistical Analysis
+
+## Contact
+
+GitHub: [@asarnobcloud](https://github.com/asarnobcloud)
